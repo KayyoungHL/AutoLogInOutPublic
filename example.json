@@ -1,0 +1,8 @@
+{
+    "kakao": 
+            {"email": "카톡 아이디", 
+            "password": "카톡 비번"}, 
+    "gmail": 
+            {"email": "gmail 아이디", 
+            "password": "gmail 토큰 비번"}
+}
