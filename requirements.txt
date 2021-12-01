@@ -1,0 +1,6 @@
+selenium
+imap-tools
+bs4
+schedule
+pystray
+PIL
