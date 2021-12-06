@@ -71,5 +71,3 @@ def login(headless=False, only=False):
 
 if __name__ == "__main__":
     browser = login(headless=True, only=True)
-    browser.close()
-    browser.quit() 
